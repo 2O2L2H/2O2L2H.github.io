@@ -1,5 +1,12 @@
 # 2O2L2H Blog repository
 
+### How to use
+
+1. fork
+2. Install ruby and jekyll
+3. **Write posting in MD file.**
+4. Commit and push.
+
 ### Template for posting
 
 ```
