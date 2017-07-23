@@ -76,6 +76,7 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-admin
+
+    #  - jekyll-admin
 
 exclude:            [vendor]
